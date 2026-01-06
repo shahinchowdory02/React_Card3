@@ -1,11 +1,7 @@
 import React from "react";
 
 const Section2 = () => {
-  return (
-    <div>
-      <h2>This is Section 2</h2>
-    </div>
-  );
+  return <div></div>;
 };
 
 export default Section2;
